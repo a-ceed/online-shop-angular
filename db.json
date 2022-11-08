@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "MacBook Air",
+      "year": "2022",
+      "price": 900,
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "M1",
+        "SSD": "256 GB",
+        "memory": "8 GB",
+        "display": "Retina"
+      }
+    },
+
+    {
+      "id": 2,
+      "title": "MacBook Pro (Intel)",
+      "year": "2022",
+      "price": 1300,
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "M1",
+        "SSD": "256 GB",
+        "memory": "8 GB",
+        "display": "Retina"
+      }
+    },
+
+    {
+      "id": 3,
+      "title": "MacBook Pro",
+      "year": "2022",
+      "price": 1000,
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "M1",
+        "SSD": "256 GB",
+        "memory": "8 GB",
+        "display": "Retina"
+      }
+    },
+
+    {
+      "id": 2,
+      "title": "MacBook Pro (Intel)",
+      "year": "2022",
+      "price": 1300,
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "M1",
+        "SSD": "256 GB",
+        "memory": "8 GB",
+        "display": "Retina"
+      }
+    },
+
+    {
+      "id": 2,
+      "title": "MacBook Pro (Intel)",
+      "year": "2022",
+      "price": 1300,
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "M1",
+        "SSD": "256 GB",
+        "memory": "8 GB",
+        "display": "Retina"
+      }
+    }
+  ]
+}
