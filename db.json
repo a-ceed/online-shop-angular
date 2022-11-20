@@ -13,7 +13,6 @@
         "display": "Retina"
       }
     },
-
     {
       "id": 2,
       "title": "MacBook Pro (Intel)",
@@ -27,7 +26,6 @@
         "display": "Retina"
       }
     },
-
     {
       "id": 3,
       "title": "MacBook Pro",
@@ -41,33 +39,88 @@
         "display": "Retina"
       }
     },
-
     {
-      "id": 2,
-      "title": "MacBook Pro (Intel)",
-      "year": "2022",
-      "price": 1300,
+      "id": 10,
+      "title": "MacBook",
+      "price": "1000",
+      "year": "2007",
       "image": "assets/images/mb.jpg",
       "configure": {
-        "chip": "M1",
-        "SSD": "256 GB",
-        "memory": "8 GB",
-        "display": "Retina"
+        "chip": "",
+        "ssd": "gmgm",
+        "memory": "2000",
+        "display": "gmgmg"
       }
     },
-
     {
-      "id": 2,
-      "title": "MacBook Pro (Intel)",
+      "id": 11,
+      "title": "fdbfbfbffbfd",
+      "price": "10000",
+      "year": "1000",
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "rthrthr",
+        "memory": "thrthrt",
+        "display": "thrth"
+      }
+    },
+    {
+      "id": 12,
+      "title": "fgfnfnfgn",
+      "price": "1000",
+      "year": "1999",
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "gmgm",
+        "memory": "2000",
+        "display": "gmgmg"
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": 1,
+      "title": "MacBook Air",
       "year": "2022",
-      "price": 1300,
+      "price": 900,
       "image": "assets/images/mb.jpg",
       "configure": {
         "chip": "M1",
         "SSD": "256 GB",
         "memory": "8 GB",
         "display": "Retina"
-      }
+      },
+      "quantity": 6
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro",
+      "year": "2022",
+      "price": 1000,
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "M1",
+        "SSD": "256 GB",
+        "memory": "8 GB",
+        "display": "Retina"
+      },
+      "quantity": 3
+    },
+    {
+      "id": 11,
+      "title": "fdbfbfbffbfd",
+      "price": "10000",
+      "year": "1000",
+      "image": "assets/images/mb.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "rthrthr",
+        "memory": "thrthrt",
+        "display": "thrth"
+      },
+      "quantity": 8
     }
   ]
 }
